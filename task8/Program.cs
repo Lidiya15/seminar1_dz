@@ -3,7 +3,7 @@
 
 Console.WriteLine("Введите натуральное число");
 int x = Convert.ToInt32(Console.ReadLine());
-int count = 0;
+int count = 2;
 while (count <= x)
 {
    Console.Write(count + " ");
